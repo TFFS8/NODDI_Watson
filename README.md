@@ -1,6 +1,6 @@
 # NODDI_Watson
 
-Full NODDI Watson implementation using the https://github.com/AthenaEPI/dmipy library.
+NODDI Watson implementation using the https://github.com/AthenaEPI/dmipy library.
 
 Example of results:
 
